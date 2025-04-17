@@ -1,3 +1,6 @@
+App made with this tutorial
+https://docs.deno.com/examples/next_tutorial/#create-a-next.js-app-with-deno
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
